@@ -53,7 +53,7 @@ android {
 
     buildTypes {
         debug {
-            signingConfig signingConfigs.config
+            // signingConfig signingConfigs.config
         }
 
         release {
