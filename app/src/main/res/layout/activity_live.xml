@@ -215,7 +215,7 @@
 				android:focusable="true"
 				android:listSelector="@drawable/item_bg_selector_right"
 				android:scrollbars="none"
-				android:layout_marginLeft="10dp"
+				android:layout_marginLeft="12dp"
 				android:layout_marginRight="5dp"
 				tools:listitem="@layout/item_live_channel_new"
 				/>
