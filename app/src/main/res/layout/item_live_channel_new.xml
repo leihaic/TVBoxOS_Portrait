@@ -20,7 +20,8 @@
         android:marqueeRepeatLimit="marquee_forever"
         android:singleLine="true"
         android:textColor="@color/text_foreground"
-        tools:text="10"/>
+        tools:text="10"
+        android:visibility="gone"/>
 
     <TextView
         android:id="@+id/tvChannelName"
